@@ -1,4 +1,5 @@
 ### Hi there 👋
+😄 Pronouns: he/him
 
 <!--
 **xmakina/xmakina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
